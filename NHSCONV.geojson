@@ -1,0 +1,635 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.38572,53.32473 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000008",
+    "ICB22NM":"NHS Cheshire and Merseyside Integrated Care Board",
+    "BNG_E":374405,
+    "BNG_N":380936,
+    "OBJECTID":1,
+    "FID":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.02756,52.9093 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000010",
+    "ICB22NM":"NHS Staffordshire and Stoke-on-Trent Integrated Care Board",
+    "BNG_E":398243,
+    "BNG_N":334651,
+    "OBJECTID":2,
+    "FID":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73668,52.62212 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000011",
+    "ICB22NM":"NHS Shropshire, Telford and Wrekin Integrated Care Board",
+    "BNG_E":350226,
+    "BNG_N":302960,
+    "OBJECTID":3,
+    "FID":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.23884,53.11101 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000013",
+    "ICB22NM":"NHS Lincolnshire Integrated Care Board",
+    "BNG_E":517984,
+    "BNG_N":358538,
+    "OBJECTID":4,
+    "FID":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0169,52.68532 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000015",
+    "ICB22NM":"NHS Leicester, Leicestershire and Rutland Integrated Care Board",
+    "BNG_E":466552,
+    "BNG_N":310188,
+    "OBJECTID":5,
+    "FID":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5676,52.29786 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000018",
+    "ICB22NM":"NHS Coventry and Warwickshire Integrated Care Board",
+    "BNG_E":429584,
+    "BNG_N":266724,
+    "OBJECTID":6,
+    "FID":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.51986,52.14057 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000019",
+    "ICB22NM":"NHS Herefordshire and Worcestershire Integrated Care Board",
+    "BNG_E":364519,
+    "BNG_N":249269,
+    "OBJECTID":7,
+    "FID":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.964749,52.65712 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000022",
+    "ICB22NM":"NHS Norfolk and Waveney Integrated Care Board",
+    "BNG_E":600616,
+    "BNG_N":310723,
+    "OBJECTID":8,
+    "FID":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.872415,52.11579 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000023",
+    "ICB22NM":"NHS Suffolk and North East Essex Integrated Care Board",
+    "BNG_E":596764,
+    "BNG_N":250276,
+    "OBJECTID":9,
+    "FID":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.51742,52.06308 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000024",
+    "ICB22NM":"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",
+    "BNG_E":501732,
+    "BNG_N":241559,
+    "OBJECTID":10,
+    "FID":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.034401,51.84426 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000025",
+    "ICB22NM":"NHS Hertfordshire and West Essex Integrated Care Board",
+    "BNG_E":540239,
+    "BNG_N":218140,
+    "OBJECTID":11,
+    "FID":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.57206,51.84564 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000026",
+    "ICB22NM":"NHS Mid and South Essex Integrated Care Board",
+    "BNG_E":577266,
+    "BNG_N":219465,
+    "OBJECTID":12,
+    "FID":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.31956,51.53019 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000027",
+    "ICB22NM":"NHS North West London Integrated Care Board",
+    "BNG_E":516661,
+    "BNG_N":182592,
+    "OBJECTID":13,
+    "FID":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15874,51.61165 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000028",
+    "ICB22NM":"NHS North Central London Integrated Care Board",
+    "BNG_E":527588,
+    "BNG_N":191919,
+    "OBJECTID":14,
+    "FID":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.107364,51.56417 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000029",
+    "ICB22NM":"NHS North East London Integrated Care Board",
+    "BNG_E":546164,
+    "BNG_N":187137,
+    "OBJECTID":15,
+    "FID":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.029892,51.39868 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000030",
+    "ICB22NM":"NHS South East London Integrated Care Board",
+    "BNG_E":541305,
+    "BNG_N":168583,
+    "OBJECTID":16,
+    "FID":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17594,51.38783 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000031",
+    "ICB22NM":"NHS South West London Integrated Care Board",
+    "BNG_E":527017,
+    "BNG_N":167000,
+    "OBJECTID":17,
+    "FID":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.719399,51.20007 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000032",
+    "ICB22NM":"NHS Kent and Medway Integrated Care Board",
+    "BNG_E":590082,
+    "BNG_N":148054,
+    "OBJECTID":18,
+    "FID":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.70072,51.39695 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000034",
+    "ICB22NM":"NHS Frimley Integrated Care Board",
+    "BNG_E":490486,
+    "BNG_N":167236,
+    "OBJECTID":19,
+    "FID":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.64254,50.45022 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000036",
+    "ICB22NM":"NHS Cornwall and the Isles of Scilly Integrated Care Board",
+    "BNG_E":212497,
+    "BNG_N":64493,
+    "OBJECTID":20,
+    "FID":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.65678,50.72559 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000037",
+    "ICB22NM":"NHS Devon Integrated Care Board",
+    "BNG_E":283157,
+    "BNG_N":93085,
+    "OBJECTID":21,
+    "FID":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.29569,51.07172 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000038",
+    "ICB22NM":"NHS Somerset Integrated Care Board",
+    "BNG_E":309318,
+    "BNG_N":131066,
+    "OBJECTID":22,
+    "FID":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.48031,51.48529 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000039",
+    "ICB22NM":"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",
+    "BNG_E":366745,
+    "BNG_N":176370,
+    "OBJECTID":23,
+    "FID":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.09676,51.29374 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000040",
+    "ICB22NM":"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",
+    "BNG_E":393349,
+    "BNG_N":154962,
+    "OBJECTID":24,
+    "FID":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.34547,50.7972 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000041",
+    "ICB22NM":"NHS Dorset Integrated Care Board",
+    "BNG_E":375748,
+    "BNG_N":99796,
+    "OBJECTID":25,
+    "FID":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.35074,51.12001 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000042",
+    "ICB22NM":"NHS Hampshire and Isle of Wight Integrated Care Board",
+    "BNG_E":445537,
+    "BNG_N":135837,
+    "OBJECTID":26,
+    "FID":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15235,51.81971 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000043",
+    "ICB22NM":"NHS Gloucestershire Integrated Care Board",
+    "BNG_E":389595,
+    "BNG_N":213465,
+    "OBJECTID":27,
+    "FID":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.13691,51.74705 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000044",
+    "ICB22NM":"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",
+    "BNG_E":459681,
+    "BNG_N":205725,
+    "OBJECTID":28,
+    "FID":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.72924,54.10147 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000048",
+    "ICB22NM":"NHS Lancashire and South Cumbria Integrated Care Board",
+    "BNG_E":352411,
+    "BNG_N":467532,
+    "OBJECTID":29,
+    "FID":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.21704,54.941 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000050",
+    "ICB22NM":"NHS North East and North Cumbria Integrated Care Board",
+    "BNG_E":386194,
+    "BNG_N":560725,
+    "OBJECTID":30,
+    "FID":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.03161,54.07379 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000051",
+    "ICB22NM":"NHS Humber and North Yorkshire Integrated Care Board",
+    "BNG_E":463464,
+    "BNG_N":464639,
+    "OBJECTID":31,
+    "FID":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.32761,51.24071 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000052",
+    "ICB22NM":"NHS Surrey Heartlands Integrated Care Board",
+    "BNG_E":516837,
+    "BNG_N":150388,
+    "OBJECTID":32,
+    "FID":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.226848,50.93386 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000053",
+    "ICB22NM":"NHS Sussex Integrated Care Board",
+    "BNG_E":556570,
+    "BNG_N":117296,
+    "OBJECTID":33,
+    "FID":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.70754,53.88578 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000054",
+    "ICB22NM":"NHS West Yorkshire Integrated Care Board",
+    "BNG_E":419321,
+    "BNG_N":443326,
+    "OBJECTID":34,
+    "FID":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.81306,52.4852 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000055",
+    "ICB22NM":"NHS Birmingham and Solihull Integrated Care Board",
+    "BNG_E":412791,
+    "BNG_N":287491,
+    "OBJECTID":35,
+    "FID":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.005437,52.29621 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000056",
+    "ICB22NM":"NHS Cambridgeshire and Peterborough Integrated Care Board",
+    "BNG_E":536856,
+    "BNG_N":268346,
+    "OBJECTID":36,
+    "FID":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.33407,53.50615 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000057",
+    "ICB22NM":"NHS Greater Manchester Integrated Care Board",
+    "BNG_E":377940,
+    "BNG_N":401102,
+    "OBJECTID":37,
+    "FID":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6021,53.0786 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000058",
+    "ICB22NM":"NHS Derby and Derbyshire Integrated Care Board",
+    "BNG_E":426752,
+    "BNG_N":353558,
+    "OBJECTID":38,
+    "FID":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.86668,52.31105 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000059",
+    "ICB22NM":"NHS Northamptonshire Integrated Care Board",
+    "BNG_E":477359,
+    "BNG_N":268708,
+    "OBJECTID":39,
+    "FID":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.00654,53.12851 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000060",
+    "ICB22NM":"NHS Nottingham and Nottinghamshire Integrated Care Board",
+    "BNG_E":466571,
+    "BNG_N":359497,
+    "OBJECTID":40,
+    "FID":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.38286,53.48311 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000061",
+    "ICB22NM":"NHS South Yorkshire Integrated Care Board",
+    "BNG_E":441051,
+    "BNG_N":398663,
+    "OBJECTID":41,
+    "FID":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.03966,52.53043 ]
+    },
+    "properties": {
+    "ICB22CD":"E54000062",
+    "ICB22NM":"NHS Black Country Integrated Care Board",
+    "BNG_E":397406,
+    "BNG_N":292506,
+    "OBJECTID":42,
+    "FID":42
+    }
+  }
+]
+}
